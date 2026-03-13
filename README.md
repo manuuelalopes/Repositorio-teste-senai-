@@ -36,6 +36,7 @@
 <img width="992" height="510" alt="image" src="https://github.com/user-attachments/assets/5d2f666d-261a-46a6-b519-5d2bdd30fead" />
 
 ### Atividade 5: 
-<img width="1145" height="588" alt="image" src="https://github.com/user-attachments/assets/466c1c72-73cd-4420-aa8a-8a3233f2dab4" />
+<img width="1095" height="541" alt="image" src="https://github.com/user-attachments/assets/ac33547f-39c9-48de-94fd-3a306aa0b851" />
+
 
 
